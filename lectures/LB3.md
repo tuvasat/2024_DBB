@@ -7,7 +7,7 @@
 
 Выберите запрос с ограничениями
 
-```
+```SQL
 SELECT column, another_column, …
 FROM mytable
 WHERE _condition_ AND/OR _another_condition_ AND/OR …**;
